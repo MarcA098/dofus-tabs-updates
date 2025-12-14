@@ -1,0 +1,6 @@
+current_version: 1.0.1
+release_date: 2025-12-14
+changelog: |
+  - Bienvenida a la beta
+  - Comprobación manual con botón nube
+  - Estado de conexión y logs de actualización
