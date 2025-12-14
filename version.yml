@@ -1,6 +1,5 @@
-current_version: 1.0.2
+current_version: 1.0.4
 release_date: 2025-12-14
 changelog: |
-  - Animación en botón nube
-  - Sonido opcional de clic
-  - Mensajes y estados de conexión mejorados
+  - Mejora del modal de actualización (formato limpio)
+  - Corrección de fallback y mensajes de versión
