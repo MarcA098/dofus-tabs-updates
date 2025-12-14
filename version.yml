@@ -1,6 +1,6 @@
-current_version: 1.0.1
+current_version: 1.0.2
 release_date: 2025-12-14
 changelog: |
-  - Bienvenida a la beta
-  - Comprobación manual con botón nube
-  - Estado de conexión y logs de actualización
+  - Animación en botón nube
+  - Sonido opcional de clic
+  - Mensajes y estados de conexión mejorados
