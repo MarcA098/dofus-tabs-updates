@@ -1,5 +1,5 @@
-current_version: 1.0.5
+current_version: 1.0.6
 release_date: 2025-12-14
 changelog: |
-  - Mejora del modal de actualización (formato limpio)
-  - Corrección de fallback y mensajes de versión
+  - Mejoras en la experiencia de actualización.
+  - Corrección y unificación de mensajes de error.
