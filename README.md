@@ -65,7 +65,8 @@ La aplicación genera logs locales para facilitar el diagnóstico:
 
 ```txt
 C:\Users\<Usuario>\AppData\Roaming\<NombreApp>\logs\gallery.txt
-ncluyen información sobre:
+````
+Incluyen información sobre:
 
 Aplicación de fondos
 
@@ -74,3 +75,28 @@ Errores de carga
 Tipo de imagen (file / data)
 
 Tamaño y tipo MIME
+
+💻 Plataforma soportada
+
+✅ Windows 10 / 11
+
+❌ Linux y macOS no soportados actualmente
+
+🛠️ Desarrollo
+
+Tecnologías utilizadas:
+
+Electron
+
+Node.js
+
+HTML / CSS / JavaScript
+
+⚠️ Aviso legal
+
+Este proyecto no está afiliado ni respaldado por Ankama Games.
+Dofus es una marca registrada de Ankama.
+
+👤 Autor
+
+Desarrollado por MarcA098
