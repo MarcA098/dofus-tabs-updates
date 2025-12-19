@@ -84,7 +84,7 @@ Tamaño y tipo MIME
 
 ❌ Linux y macOS no soportados actualmente
 
-🛠️ Desarrollo
+## 🛠️ Desarrollo
 
 Tecnologías utilizadas:
 
