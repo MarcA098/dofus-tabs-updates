@@ -1,72 +1,76 @@
-Dofus Tabs Organizer
+# 🎮 Dofus Tabs Organizer
 
-Dofus Tabs Organizer es una aplicación de escritorio desarrollada con Electron para facilitar la gestión de múltiples ventanas de Dofus Unity y Dofus Retro, pensada especialmente para jugadores multicuenta en Windows.
+**Dofus Tabs Organizer** es una aplicación de escritorio desarrollada con **Electron** que facilita la gestión de múltiples ventanas de **Dofus Unity** y **Dofus Retro**, especialmente pensada para jugadores **multicuenta** en **Windows**.
 
-Características
+---
 
-Detección automática de ventanas abiertas de Dofus
+## ✨ Características
 
-Organización manual del orden de los personajes
+- 🔍 Detección automática de ventanas abiertas de Dofus  
+- 🧩 Organización manual del orden de personajes  
+- ⌨️ Cambio rápido entre ventanas mediante atajos de teclado  
+- 🔄 Compatible con **Dofus Unity** y **Dofus Retro**  
+- 🎨 Sistema de temas visuales  
+- 🖼️ Fondos personalizados mediante galería de imágenes  
+- 📁 Soporte para **PNG, JPG, WEBP y SVG**  
+- 🚀 Versión instalable con **auto-actualizaciones**  
+- 📦 Versión portable sin instalación  
 
-Cambio rápido entre ventanas mediante atajos de teclado
+---
 
-Compatibilidad con Dofus Unity y Dofus Retro
+## 📦 Versiones disponibles
 
-Sistema de temas visuales
+### 🧩 Versión instalable
+- Incluye sistema de auto-actualización (`electron-updater`)
+- Recomendada para uso diario
+- Requiere instalación en el sistema
 
-Fondos personalizados mediante galería de imágenes
+### 📁 Versión portable
+- No requiere instalación
+- ❌ No se actualiza automáticamente
+- El usuario debe descargar manualmente cada nueva versión
 
-Soporte para imágenes PNG, JPG, WEBP y SVG
+---
 
-Versión instalable con auto-actualizaciones
+## ⬇️ Descarga
 
-Versión portable sin necesidad de instalación
+Las versiones oficiales se publican en **GitHub Releases**:
 
-Versiones disponibles
-🧩 Versión instalable
+👉 **https://github.com/MarcA098/dofus-tabs-updates/releases**
 
-Incluye sistema de auto-actualización (electron-updater)
+---
 
-Recomendada para uso diario
+## ▶️ Uso básico
 
-Requiere instalación en el sistema
+1. Abre **Dofus Unity** o **Dofus Retro**
+2. Inicia **Dofus Tabs Organizer**
+3. Pulsa **Actualizar Dofus** o **Actualizar Retro**
+4. Organiza el orden de los personajes
+5. Usa los atajos configurados para cambiar entre ventanas
 
-📦 Versión portable
+---
 
-No requiere instalación
+## 🎨 Personalización
 
-No se actualiza automáticamente
+- Temas visuales predefinidos  
+- Galería de imágenes personalizada  
+- Fondos aplicados mediante `file://` para mayor compatibilidad  
+- Vista previa en tiempo real  
 
-El usuario debe descargar manualmente cada nueva versión
+---
 
-Descarga
+## 📝 Logs y diagnóstico
 
-Las versiones oficiales se publican exclusivamente en GitHub Releases:
+La aplicación genera logs locales para facilitar el diagnóstico:
 
-👉 https://github.com/MarcA098/dofus-tabs-updates/releases
+```txt
+C:\Users\<Usuario>\AppData\Roaming\<NombreApp>\logs\gallery.txt
+ncluyen información sobre:
 
-Uso básico
+Aplicación de fondos
 
-Abre Dofus Unity o Dofus Retro
+Errores de carga
 
-Inicia Dofus Tabs Organizer
+Tipo de imagen (file / data)
 
-Pulsa Actualizar Dofus o Actualizar Retro
-
-Organiza el orden de los personajes
-
-Usa los atajos configurados para cambiar entre ventanas
-
-Personalización
-
-Selección de temas visuales predefinidos
-
-Galería de imágenes personalizada
-
-Fondos aplicados mediante file:// para mayor estabilidad
-
-Vista previa en tiempo real de los cambios
-
-Logs y diagnóstico
-
-La aplicación genera logs locales para facilitar el diagnóstico de errores:
+Tamaño y tipo MIME
