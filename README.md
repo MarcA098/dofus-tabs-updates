@@ -67,7 +67,7 @@ Proyecto basado en:
 - Node.js
 - HTML / CSS / JavaScript
 
-##Aviso legal
+## Aviso legal
 
 Este proyecto no está afiliado ni respaldado por Ankama Games.
 Dofus es una marca registrada de Ankama.
