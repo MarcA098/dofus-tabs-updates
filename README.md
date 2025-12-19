@@ -51,3 +51,27 @@ Las versiones oficiales se publican en GitHub Releases:
 
 La aplicación genera logs locales para diagnóstico:
 
+C:\Users<Usuario>\AppData\Roaming<NombreApp>\logs\gallery.txt
+
+
+Incluyen información sobre:
+- Aplicación de fondos
+- Errores de carga
+- Tipo de imagen (file/data)
+- Tamaño y MIME
+
+## Desarrollo
+
+Proyecto basado en:
+- Electron
+- Node.js
+- HTML / CSS / JavaScript
+
+##Aviso legal
+
+Este proyecto no está afiliado ni respaldado por Ankama Games.
+Dofus es una marca registrada de Ankama.
+
+Autor
+
+Desarrollado por MarcA098
