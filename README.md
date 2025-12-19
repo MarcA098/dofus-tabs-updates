@@ -76,7 +76,9 @@ Tipo de imagen (file / data)
 
 Tamaño y tipo MIME
 
-💻 Plataforma soportada
+---
+
+## 💻 Plataforma soportada
 
 ✅ Windows 10 / 11
 
@@ -92,11 +94,14 @@ Node.js
 
 HTML / CSS / JavaScript
 
-⚠️ Aviso legal
+---
+## ⚠️ Aviso legal
 
 Este proyecto no está afiliado ni respaldado por Ankama Games.
 Dofus es una marca registrada de Ankama.
 
-👤 Autor
+---
+
+## 👤 Autor
 
 Desarrollado por MarcA098
