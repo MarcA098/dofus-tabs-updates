@@ -1,9 +1,11 @@
-current_version: 1.0.10
+current_version: 1.0.11
 release_date: 2026-01-06
 changelog: |
+  Cambios de la 1.0.11:
+    - Aviso automático de actualización al abrir la app
+    - Toast informativo con versión y acceso al menú de actualizaciones
 
-  Posibilidad de cambiar la orientación del HUD entre vertical y horizontal.
-  Soporte para atajos de teclado compuestos (Alt + tecla, Ctrl + tecla).
-  Reducción del parpadeo del HUD.
-  Minimización de la ventana principal al área de notificación de Windows.
-  Reduccion del tamaño del HUD a un formato más compacto.
+  Mejoras previas (v1.0.10):
+    - La ventana principal se oculta en la bandeja del sistema al activar el HUD
+    - Cierre total de la app cuando el HUD se cierra desde la barra de Windows
+    - Enfoque seguro de ventanas (menos parpadeo)
