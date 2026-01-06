@@ -9,3 +9,4 @@ changelog: |
     - La ventana principal se oculta en la bandeja del sistema al activar el HUD
     - Cierre total de la app cuando el HUD se cierra desde la barra de Windows
     - Enfoque seguro de ventanas (menos parpadeo)
+    - El cambio de atajos en 'Anterior/Siguiente' se guardan correctamente
